@@ -1,0 +1,33 @@
+body{
+    background: #434244;
+    color: whitesmoke;
+
+}
+
+
+header{
+
+    background: #f40444;
+    color: #f40444;
+    font-size: 120%;
+    
+}
+a{
+    color: aliceblue;
+}
+hr{
+    color: #f40444;
+
+}
+
+h2{
+    color: #f40444;
+}
+
+ul{
+    color: #ec7f9c;
+
+}
+footer{
+    background: #f40444;
+}
