@@ -1,0 +1,33 @@
+body{
+    background: #434244;
+    color: whitesmoke;
+    font-family: 'Times New Roman';
+
+}
+
+
+header{
+
+    background: #3fe630;
+    color: #3fe630;
+    font-size: 120%;
+    
+}
+a{
+    color: aliceblue;
+}
+
+h2{
+    font-family: sans-serif;
+    color:#3fe630;
+}
+h3{
+    font-family: 'verdana';
+}
+
+footer{
+    background: #3fe630;
+}
+p{
+    font-family: 'Cambria';
+}
