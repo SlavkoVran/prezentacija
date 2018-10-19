@@ -1,0 +1,23 @@
+body{
+    background: #434244;
+    color: whitesmoke;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1em;
+}
+header{
+    background: #3fe630;
+}
+
+h1,h2,h3{
+    font-size: 30px;
+    font-family: 'Sigmar One', cursive;
+    color:#3fe630;
+}
+footer{
+    background: #3fe630;
+}
+
+a{
+    font-size: 1.5em;
+    color: azure;
+}
